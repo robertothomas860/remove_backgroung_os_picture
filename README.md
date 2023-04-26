@@ -25,7 +25,7 @@ cv2.imwrite('result.jpg', masked_img)
  Roberto Thomas - https://metroroutes.in/
 
 
-# Contact
+# Contact Us
 
 If you have any query or suggestion please reach us at
 info@metroroutes.in
