@@ -1,6 +1,6 @@
 # remove_backgroung_of_picture
 
-You can use this code by downloading OpenCV library in Python
+You can use this code in OpenCV library in Python for removing background of any picture.
 
 # Usage
 
