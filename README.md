@@ -7,6 +7,7 @@ You can use this code by downloading OpenCV library in Python
 Add the following to your page
 
 
+```html
 import cv2
 
 img = cv2.imread('image.jpg')
