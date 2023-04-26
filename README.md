@@ -19,7 +19,7 @@ ret, mask = cv2.threshold(gray, 240, 255, cv2.THRESH_BINARY_INV)
 masked_img = cv2.bitwise_and(img, img, mask=mask)
 
 cv2.imwrite('result.jpg', masked_img)
-
+```
 
 # Author
  Roberto Thomas - https://metroroutes.in/
