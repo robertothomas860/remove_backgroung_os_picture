@@ -22,4 +22,4 @@ cv2.imwrite('result.jpg', masked_img)
 
 
 # Author
- Robert Thomas - https://metroroutes.in/
+ Roberto Thomas - https://metroroutes.in/
