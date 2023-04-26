@@ -23,3 +23,9 @@ cv2.imwrite('result.jpg', masked_img)
 
 # Author
  Roberto Thomas - https://metroroutes.in/
+
+
+# Contact
+
+If you have any query or suggestion please reach us at
+info@metroroutes.in
